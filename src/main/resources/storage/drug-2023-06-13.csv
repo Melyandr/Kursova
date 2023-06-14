@@ -1,3 +1,0 @@
-Id, Name, Is available, Category, Producer id, Price in dollars, Packaging, Active ingredient
-1, analgine, true, WITH_PRESCRIPTION, 8, 7.0, SECONDARY, metformin
-2, Loratadyn, false, WITHOUT_PRESCRIPTION, 1, 7.0, PRIMARY, metformin
